@@ -1,12 +1,12 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "WarriorSMP8.aternos.me",
+    "port": "42231",
     "password": "",
     "prefix": "",
     "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
+    "register-cmd": "/login BEWADA BEWADA",
+    "login-cmd": "/login BEWADA",
+    "loginmsg": "HELLOOOOO",
     "web": "true"
     
 }
